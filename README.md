@@ -18,7 +18,7 @@ Utilizei o "ChatGPT" para estruturar o dicionário de IA e conter os principais 
 ## 🚀 Resultados
 O e-book apresenta visual envolvente e conteúdo resumido porém de grande relevância para quem está inciando os estudos em IA.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/PolliCarvalho/lab-natty-or-not/blob/main/Ebook%20Dicion%C3%A1rio%20de%20IA%20para%20inciantes.pdf)
 
 ## 💭 Reflexão
 Utilizar ferramentas de IA para criação de um e-book foi uma experiência desafiadora. Nota-se que tais ferramentas são poderosos aliados no processo criativo.
